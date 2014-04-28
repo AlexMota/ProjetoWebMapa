@@ -8,7 +8,7 @@
 	<body>
 		<h1>Portal Mapa Goiás</h1>
 
-		<object type="image/svg+xml" id="mapaSVG" data="img/Brazil_Goias_location_map.svg">Seu navegador não suporta arquivos SVG.</object>
+		<object type="image/svg+xml" data="img/Brazil_Goias_location_map.svg">Seu navegador não suporta arquivos SVG.</object>
 
 	</body>
 </html>

@@ -1,3 +1,6 @@
 /**
  * @author Alexandre
  */
+function carregarSVG () {
+  
+}
