@@ -4,6 +4,7 @@
 
  function mudarCor(){ 
  var mapaSVG = document.getElementById("mapa").contentDocument;
-  var municipio = mapaSVG.getElementById("path298");
+  //document.getElementById("path114");
+  var municipio = mapaSVG.getElementsById("path298");
   municipio.style.fill = "lime";
 } 
