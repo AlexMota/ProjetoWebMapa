@@ -3,12 +3,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<script type="text/javascript" src="js/script.js"></script>
 		<title>Portal Mapa Goiás</title>
 	</head>
 	<body>
 		<h1>Portal Mapa Goiás</h1>
 
-		<object type="image/svg+xml" data="img/Brazil_Goias_location_map.svg">Seu navegador não suporta arquivos SVG.</object>
+		<object type="image/svg+xml" id="mapaSVG" data="img/Brazil_Goias_location_map.svg">
+			Seu navegador não suporta arquivos SVG.
+		</object>
 
 	</body>
 </html>
